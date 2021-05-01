@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+
+<p align="left">
+<a target="_blank"  href="https://www.linkedin.com/in/arfaz26/"><img src="https://img.shields.io/badge/%40arfaz26-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/arfaz26/" alt="LinkedIn Badge"></a>
+<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=arfaz26.arfaz26" alt="Vistor Badge"></a>
+</p>
+</p>
 
 <!--
 **arfaz26/arfaz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

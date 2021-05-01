@@ -6,6 +6,14 @@
 </p>
 </p>
 
+
+- 💻 I'm MERN Stack Developer
+- 🔭 I’m currently working on E-commerce Web App
+- 😄 I'm always open to contribute in open-source projects
+- 🔗 Checkout  <a target="_blank"  href="https://arfaz26.github.io/portfolio/">Arfaz's Portfolio</a>.
+- 📫 Reach me out @ <a href="mailto:chougulearfaz@gmail.com">chougulearfaz@gmail.com</a>
+
+
 <!--
 **arfaz26/arfaz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

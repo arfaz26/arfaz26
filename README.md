@@ -9,11 +9,11 @@
 
 - 💻 I'm MERN Stack Developer
  
-- 🔭 I’m currently working on E-commerce Web App
+- 🔭 I’m currently working on <a target="_blank"  href="https://arfaz26.github.io/portfolio/"> E-commerce Web App </a>
 
 - 😄 I'm always open to contribute in open-source projects
 
-- 🔗 Checkout  <a target="_blank"  href="https://arfaz26.github.io/portfolio/">Arfaz's Portfolio</a>.
+- 🔗 Checkout  <a target="_blank"  href="https://yourshopapp.herokuapp.com/">Arfaz's Portfolio</a>.
 
 - 📫 Reach me out at <a href="mailto:chougulearfaz@gmail.com">chougulearfaz@gmail.com</a>
 

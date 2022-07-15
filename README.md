@@ -8,8 +8,6 @@
 
 
 - 💻 I'm MERN Stack Developer
- 
-- 🔭 I’m currently working on <a href="https://yourshopapp.herokuapp.com/"  target="_blank"> E-commerce Web App </a>
 
 - 😄 I'm always open to contribute in open-source projects
 
